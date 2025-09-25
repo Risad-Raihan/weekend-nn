@@ -1,2 +1,2 @@
 # weekend-nn
-neural network fun for weekends
+neural network and python script fun for weekends
