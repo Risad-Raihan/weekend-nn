@@ -1,0 +1,14 @@
+The Task
+Write a Python function called tokenize_and_count(text) that performs the following steps:
+
+Tokenization: Splits the input string text into a list of individual words/tokens. For simplicity, convert the text to lowercase and only split by whitespace. Ignore punctuation for this quick exercise.
+
+Frequency Calculation: Counts how many times each unique token appears in the list.
+
+Output: Returns a dictionary where the keys are the unique tokens and the values are their counts.
+
+Example
+Input text	Expected Output
+"The quick brown fox jumps over the lazy dog dog"	{'the': 2, 'quick': 1, 'brown': 1, 'fox': 1, 'jumps': 1, 'over': 1, 'lazy': 1, 'dog': 2}
+
+
